@@ -30,6 +30,11 @@
 		</dependency>
 	</dependencies>
 
+	<properties>
+		<sonar.organization>domonkosadam</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
+
 	<build>
 		<plugins>
 			<plugin>
